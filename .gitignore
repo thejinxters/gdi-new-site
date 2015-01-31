@@ -27,6 +27,9 @@
 # Ignore Gemfile compilation
 /Gemfile
 
+# Ignore Coverage
+/coverage
+
 # General Ignores
 .DS_Store
 **.swp
