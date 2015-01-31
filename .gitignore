@@ -23,3 +23,12 @@
 
 # Ignore ReadTheDocs site style
 /docs/site
+
+# Ignore Gemfile compilation
+/Gemfile
+
+# General Ignores
+.DS_Store
+**.swp
+.idea
+
